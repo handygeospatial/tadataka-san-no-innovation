@@ -56,7 +56,7 @@ Wikipedia の「伊能忠敬」項目については "Inō" と表記され、UR
 
 参考： https://en.wikipedia.org/wiki/In%C5%8D_Tadataka
 
-候補8: Innõvation
+候補9: Innõvation
 =================
 英語の innovation をそのまま使いつつ、ディアクリティカルマークを入れることで区別するという案。ディアクリティカルは TILDE を使うことにし、やや温泉 ♨ っぽい感じにする。URL 等ではディアクリティカルマークを省略し、テキストやロゴ等でのみデザインとして TILDE を入れるということでどうか。
 
