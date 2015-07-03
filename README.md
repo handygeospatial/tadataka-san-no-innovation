@@ -15,6 +15,10 @@
 
 バリエーションとして、ハイフンをいれて ino-vation とする案も考えられる。
 
+Wikimedia Commons の伊能忠敬カテゴリは Ino Tadataka と表記されている。
+
+参考： https://commons.wikimedia.org/wiki/Category:Ino_Tadataka
+
 候補3: Inohvation
 =================
 サーカムフレックスの代わりに h を入れることで「いのー」の「ー」を表現する方法をとったもの。
