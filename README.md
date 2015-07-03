@@ -50,6 +50,13 @@ Wikimedia Commons の伊能忠敬カテゴリは Ino Tadataka と表記されて
 ================
 意訳
 
+候補8: InōVation
+================
+Wikipedia の「伊能忠敬」項目については "Inō" と表記され、URLとしての文字列は "In%C5%8D" となっている。
+
+参考： https://en.wikipedia.org/wiki/In%C5%8D_Tadataka
+
+
 TODO
 ====
 このレポジトリ名のうち tadataka にも疑義が出る可能性もある chukei という呼び方を好む方もいらっしゃるからだ。
