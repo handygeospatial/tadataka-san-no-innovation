@@ -1,6 +1,16 @@
 # tadataka-san-no-innovation
 「伊能ベーション」をアルファベットで綴るとしたらどうするか
 
+結論：Ino-vation でいきましょう
+===============================
+https://github.com/handygeospatial/tadataka-san-no-innovation/issues/3 で出てきた、ino-vation で結論としたいと思います。ino-vation の理由、次の通りです（Issue から再掲）。
+
+- 英単語 innovation を綴り間違った問題はクリアしなければならない
+- なるべく文字数は少なくしたい
+- ハイフンをいれることで inōvation のニュアンスが入る
+- ハイフンをいれることで イノー のニュアンスが入る
+- ino-vation ドメインは空いている
+
 候補1：Inouvation
 =================
 いわゆるIMEローマ字で伊能を綴ると inou になることから。
